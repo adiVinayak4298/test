@@ -1,1 +1,1 @@
-const js = 'first commit'
+const js = 'first branch'
