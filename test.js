@@ -9,3 +9,7 @@ const js4 = 'individual'
 
 const js6= "hello";
 
+
+
+const adi ="vinayak14";
+
