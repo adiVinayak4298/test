@@ -7,6 +7,6 @@ const js4 = 'individual'
 
 
 
-const js6= "hello";
+// const js6= "hello";aditya
 // this is the devlop branch
 
